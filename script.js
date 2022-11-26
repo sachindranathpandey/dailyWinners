@@ -1,7 +1,7 @@
 function send_handle() {
   let num = document.getElementById("number").value;
 
-  let msg = document.getElementById("msg").value;
+  // let msg = document.getElementById("msg").value;
 
   // let name = document.getElementById("name").value;
 
